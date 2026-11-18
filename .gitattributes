@@ -1,0 +1,4 @@
+/updates/manifest.json -text
+/updates/manifest.sig -text
+/updates/releases/** -text
+/downloads/*.zip -text
